@@ -1,4 +1,4 @@
 # MyFirstRepo
 My First Guthub Repository
 
-Author - Farhan Ansari
+Author - Farhan <br> Ansari
